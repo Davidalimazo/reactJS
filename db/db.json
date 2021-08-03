@@ -1,0 +1,46 @@
+{
+  "people": [
+    {
+      "name": "Chinwe",
+      "location": "Aba",
+      "gender": "Female",
+      "id": 3
+    },
+    {
+      "name": "Adesuwa",
+      "location": "Edo",
+      "gender": "Female",
+      "id": 4
+    },
+    {
+      "name": "Rukewe",
+      "location": "Delta",
+      "gender": "Male",
+      "id": 6
+    },
+    {
+      "name": "Dadin",
+      "location": "Kogi",
+      "gender": "Male",
+      "id": 7
+    },
+    {
+      "name": "Oyindamola",
+      "location": "Osun",
+      "gender": "Female",
+      "id": 8
+    },
+    {
+      "name": "Aisha",
+      "location": "Katsina",
+      "gender": "Male",
+      "id": 11
+    },
+    {
+      "name": "Oluwadamilola",
+      "location": "Lagos",
+      "gender": "Female",
+      "id": 12
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+.name {
+    margin: 0;
+    padding: 10px;
+    height: 60px;
+    background:  #4d08ee;
+     color: white;
+     display: flex;
+}
+
+.name:first-child {
+    margin-top: 10px;
+}
+.email {
+    margin: 0;
+    padding: 10px;
+    height: 60px;
+    background:#6bb6fc;
+}
+
+.comment {
+    margin: 0;
+    padding: 10px;
+    height: 100px;
+    background:#022647;
+    color: white;
+}
+.pull-right {
+    margin-left: auto;
+}
