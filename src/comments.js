@@ -8,7 +8,7 @@ const Comments = (url) => {
 
     useEffect(() => {
         const url = "https://jsonplaceholder.typicode.com/comments";
-        fetch(url, { method: 'GET' }).then(res => {return res.json() }).then(data => setComment(data)).catch(err => console.log(err.message));
+        fetch(url, { method: 'GET' }).then(res => {return res.json() }).then(data => setComment(data.slice(0, 5))).catch(err => console.log(err.message));
     }, []);
 
     return (
